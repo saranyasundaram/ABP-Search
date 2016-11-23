@@ -1,0 +1,27 @@
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\bin\QtApp-debug-unaligned.apk : \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\bin\QtApp.ap_ \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\bin\classes.dex \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\QtAndroid-bundled.jar \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\gdbserver \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libaddress-book.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libgdbserver.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libgnustl_shared.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_generic_libqevdevkeyboardplugin.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_generic_libqevdevmouseplugin.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_generic_libqevdevtabletplugin.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_generic_libqevdevtouchplugin.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqdds.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqgif.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqicns.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqico.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqjpeg.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqtga.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqtiff.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqwbmp.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_imageformats_libqwebp.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_platforms_android_libqtforandroid.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_platforms_libqminimal.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libplugins_platforms_libqoffscreen.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libQt5Core.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libQt5Gui.so \
+D:\AddressBookProject\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\libs\armeabi-v7a\libQt5Widgets.so \
